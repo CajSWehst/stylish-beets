@@ -31,7 +31,11 @@ a {
   text-decoration: none;
 }
 
-
+a:hover {
+  color: #3f1622;
+  border-bottom: none;
+  text-decoration: none;
+}
 
 img {
   width: 100%;
