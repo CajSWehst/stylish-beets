@@ -8,20 +8,19 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-
 h1 h2 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
 }
 
-ol{
+.navigation {
   font-family: 'PT Sans', sans-serif;
 }
 
-a {
-  color: #8f2440;
-}
+
 /*
+#3f1622
+#8f2440
 font-family: 'PT Serif', serif;
 font-family: 'PT Sans', sans-serif;
 /*
