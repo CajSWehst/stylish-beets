@@ -33,7 +33,7 @@ a {
 
 a:hover {
   color: #3f1622;
-  border-bottom: none;
+  border-bottom: 3px;
   text-decoration: none;
 }
 
