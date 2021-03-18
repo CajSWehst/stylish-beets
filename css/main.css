@@ -9,7 +9,9 @@ html {
   box-sizing: inherit;
 }
 
-
+h1 h2 {
+  font-family: 'PT Sans', sans-serif;
+}
 /*
 font-family: 'PT Serif', serif;
 font-family: 'PT Sans', sans-serif;
