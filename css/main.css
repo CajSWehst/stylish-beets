@@ -8,7 +8,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-h1 h2 {
+h1 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
 }
